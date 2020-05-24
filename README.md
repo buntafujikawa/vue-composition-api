@@ -22,3 +22,8 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## references
+[Composition API RFC](https://vue-composition-api-rfc.netlify.app/)
+
+[API Reference](https://vue-composition-api-rfc.netlify.app/api.html#setup)
